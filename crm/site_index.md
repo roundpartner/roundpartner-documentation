@@ -1,1 +1,1 @@
-Home Page
+Example documentation page
