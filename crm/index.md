@@ -1,4 +1,4 @@
-= Documentation
+#Documentation
 - [Customers](/page/customer_index)
 - [Documentation](/page/index)
 - [How do I create a job](/page/job_create)
