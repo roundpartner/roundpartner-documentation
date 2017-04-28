@@ -12,4 +12,4 @@
 - [Payments](/page/payment_index)
 - [Rounds](/page/round_index)
 - [invoices](/page/invoice_index)
-- [Get reports](/page/report_index)a
+- [Get reports](/page/report_index)
