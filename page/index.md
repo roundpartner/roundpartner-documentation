@@ -1,6 +1,5 @@
 # Documentation
 - [Customers](/page/customer_index)
-- [Documentation](/page/index)
 - [How do I create a job](/page/job_create)
 - [Scheduling a job](/page/booking_create)
 - [Payment](/page/payment_create)
