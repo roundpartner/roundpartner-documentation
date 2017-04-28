@@ -1,0 +1,15 @@
+= Documentation
+- [Customers](/page/customer_index)
+- [Documentation](/page/index)
+- [How do I create a job](/page/job_create)
+- [Scheduling a job](/page/booking_create)
+- [Payment](/page/payment_create)
+- [Creating an invoice](/page/invoice_create)
+- [Customers view](/page/customer_view)
+- [adding a new customer](/page/customer_create)
+- [Your Jobs](/page/job_index)
+- [Your Planner](/page/planner_index)
+- [Payments](/page/payment_index)
+- [Rounds](/page/round_index)
+- [invoices](/page/invoice_index)
+- [Get reports](/page/report_index)a
