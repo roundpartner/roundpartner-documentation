@@ -1,7 +1,7 @@
 # Documentation
 - [Customers](/page/customer_index)
- - [Customers view](/page/customer_view)
  - [Adding a new customer](/page/customer_create)
+  - [View a customer](/page/customer_view)
 - [How do I create a job](/page/job_create)
 - [Scheduling a job](/page/booking_create)
 - [Payment](/page/payment_create)
