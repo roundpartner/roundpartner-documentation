@@ -1,3 +1,10 @@
 ## Moving all Jobs
 
-You can change jobs
+You can adjust the scheduled date of all jobs on the [holiday form](https://roundpartner.co.uk/booking/holiday).
+
+![select move date](https://github.com/roundpartner/roundpartner-documentation/raw/master/page/images/Screenshot%202017-04-29%2023.45.33.png "Select move date")
+
+On this form you can select the date you will be returning on.
+After selecting the date you will see how many days your jobs will be rescheduled by.
+
+When you submit the form, all your jobs will be moved forward by the amount of days displayed.
