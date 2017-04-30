@@ -1,4 +1,5 @@
 # Documentation
+<!-- todo: rewrite content on this page -->
 - [Customers](/page/customer_index)
  - [Adding a new customer](/page/customer_create)
   - [View a customer](/page/customer_view)

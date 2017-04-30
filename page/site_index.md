@@ -1,4 +1,5 @@
 # Your Dashboard
+<!-- todo: rewrite content on this page -->
 The dashboard is the hub for your business, most of the features and tasks you will want to do can be access through the ribbon menu at the top of the screen. You can customise your RoundPartner by clicking the _Account_ tab over on the top right hand side and going to _My account_.
 
 ## Getting Started
