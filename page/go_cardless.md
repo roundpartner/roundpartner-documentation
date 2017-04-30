@@ -4,6 +4,12 @@
 RoundPartner can be connected to Go Cardless allowing you to automatically collect payments from your customers.
 When a payment is collected, your customers balance will be updated in RoundPartner and the job marked as paid.
 
+## Connect
+You can link your Go Cardless account with RoundPartner using the link below:
+
+[Connect RoundPartner with Go Cardless](https://roundpartner.co.uk/cardless/connect)
+
+This will take you to a login page which will authorise RoundPartner to set up Direct Debits and receive updates automatically.
 ## Set up a Direct Debit
 From the [customer](https://roundpartner/customer) section, open the customer you want to set up a Direct Debit for.
 
