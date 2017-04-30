@@ -7,4 +7,4 @@ After selecting the date you will see how many days your jobs will be reschedule
 
 When you submit the form, all your jobs will be moved forward by the amount of days displayed.
 
-![select move date](https://github.com/roundpartner/roundpartner-documentation/raw/master/page/images/Screenshot%202017-04-29%2023.45.33.png "Select move date")
+![select move date](https://github.com/roundpartner/roundpartner-documentation/raw/master/page/images/holiday-reshedule-date.png "Select move date")
