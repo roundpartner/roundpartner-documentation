@@ -38,4 +38,4 @@ Once you have assigned a user to a team you can see the team that the user is in
 ![550b9e5308e3edadd3c21c42df867610.png](/uploads/redactor/pages/550b9e5308e3edadd3c21c42df867610.png)
 
 ### Manage Crew Access
-If you want to restrict what your crew to access, read the [Manage Your Crew](page/user_access.md) help page.
+If you want to restrict what your crew to access, read the [Manage Your Crew](/page/user_access.md) help page.
