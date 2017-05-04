@@ -2,7 +2,7 @@
 <!-- todo: rewrite content on this page -->
 - [Customers](/page/customer_index.md)
  - [Adding a new customer](/page/customer_create.md)
-  - [View a customer](/page/customer_view.md)
+ - [View a customer](/page/customer_view.md)
 - [How do I create a job](/page/job_create.md)
 - [Scheduling a job](/page/booking_create.md)
 - [Payment](/page/payment_create.md)
@@ -14,3 +14,5 @@
 - [Invoices](/page/invoice_index.md)
 - [Get reports](/page/report_index.md)
 - [Go Cardless](/page/go_cardless.md)
+- [Team Management](/page/user_team.md)
+ - [User Access](/page/user_access.md)
