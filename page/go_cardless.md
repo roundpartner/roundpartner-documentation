@@ -4,6 +4,10 @@
 RoundPartner can be connected to Go Cardless allowing you to automatically collect payments from your customers.
 When a payment is collected, your customers balance will be updated in RoundPartner and the job marked as paid.
 
+### Pricing
+Go Cardless will take a commission for each transaction made.
+You can review the cost [here](https://gocardless.com/pricing/).
+
 ## Connect
 You can link your Go Cardless account with RoundPartner using the link below:
 
