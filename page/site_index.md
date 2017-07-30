@@ -7,6 +7,11 @@ When you first log into RoundPartner the first page you see is the dashboard. Yo
 
 ![2c904e244689677f416fa4f4011384ae.png](https://roundpartner.co.uk/uploads/redactor/pages/2c904e244689677f416fa4f4011384ae.png)
 
+## Customising RoundPartner
+You can customise RoundPartner by selecting **Account** in the top right menu and then selecting **Customise**.
+
+You can then change how RoundPartner works and looks to suit your business.
+
 ## How do I view work on my phone  
 We have made this easy, just pick up your phone and make sure you have internet via WiFi or network provider. Open the browser on your phone and enter Roundpartner.co.uk into the search box. Here you will be taken to the _login_ page.
 
