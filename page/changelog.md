@@ -1,7 +1,23 @@
-#Change Log
+# Change Log
 RoundPartner is constantly being updated to ensure it has all the features required to keep a window cleaning business running smoothly. This page highlights some of the features and improvements we have made.
 
 You can send us a feature request or report a bug using the form at the bottom of this page.
+
+## 18 August 2017
+### New Features
+- Default Payment method can be selected from Customise RoundPartner
+- Customer Reference can be enabled from Customise RoundPartner
+- Added support for franchises
+- Team members can now be restricted from viewing payment information
+- Team members can be restricted from exporting information
+
+### Improvements
+- Help pages have been migrated to [GitHub](https://github.com/roundpartner/roundpartner-documentation)
+- Extra Jobs column is hidden when it is not used
+- A default customer name is displayed if one is not set
+- All Jobs can be rescheduled in
+- Jobs can be skipped
+- Display more useful error messages on server errors
 
 ## 30th April 2017
 ### New Features
