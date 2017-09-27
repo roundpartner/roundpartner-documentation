@@ -3,6 +3,14 @@ RoundPartner is constantly being updated to ensure it has all the features requi
 
 You can send us a feature request or report a bug using the form at the bottom of this page.
 
+## 27 September
+### New Features
+- Search rounds
+- Email invoices to customers (beta testing)
+
+### Improvements
+- Prefixed RoundPartner company number with zero where displayed
+
 ## 18th August 2017
 ### New Features
 - Default Payment method can be selected from Customise RoundPartner
