@@ -3,6 +3,16 @@ RoundPartner is constantly being updated to ensure it has all the features requi
 
 You can send us a feature request or report a bug using the form at the bottom of this page.
 
+## 11 November
+### New Features
+- New payments are now taken with our new provider Stripe
+- Payment details can be added and updated from the account section
+- Invoices are displayed on the view customer section
+### Improvements
+- Updated SSL keys to keeps website secure
+- Invoice is sent when payment for a subscription when Stripe is used for payment
+- Enabled secure and http only cookies
+
 ## 27 September
 ### New Features
 - Search rounds
