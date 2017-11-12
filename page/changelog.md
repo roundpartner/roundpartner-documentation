@@ -5,6 +5,7 @@ You can send us a feature request or report a bug using the form at the bottom o
 
 ## 12th November 2017
 ### Improvements
+- Can search for customers by phone number
 - Fixed Customer and Job search performance issues and timeouts
 - News is pulled from content management micro service
 
