@@ -3,12 +3,12 @@ RoundPartner is constantly being updated to ensure it has all the features requi
 
 You can send us a feature request or report a bug using the form at the bottom of this page.
 
-## 12 November
+## 12th November 2017
 ### Improvements
 - Fixed Customer and Job search performance issues and timeouts
 - News is pulled from content management micro service
 
-## 11 November
+## 11th November 2017
 ### New Features
 - New payments are now taken with our new provider Stripe
 - Payment details can be added and updated from the account section
@@ -18,7 +18,7 @@ You can send us a feature request or report a bug using the form at the bottom o
 - Invoice is sent when payment for a subscription when Stripe is used for payment
 - Enabled secure and http only cookies
 
-## 27 September
+## 27 September 2017
 ### New Features
 - Search rounds
 - Email invoices to customers (beta testing)
