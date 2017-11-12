@@ -14,7 +14,7 @@ You can send us a feature request or report a bug using the form at the bottom o
 - Payment details can be added and updated from the account section
 - Invoices are displayed on the view customer section
 ### Improvements
-- Updated SSL keys to keeps website secure
+- Install new SSL key to keep the website secure
 - Invoice is sent when payment for a subscription when Stripe is used for payment
 - Enabled secure and http only cookies
 
