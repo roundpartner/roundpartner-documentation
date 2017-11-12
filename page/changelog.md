@@ -3,6 +3,11 @@ RoundPartner is constantly being updated to ensure it has all the features requi
 
 You can send us a feature request or report a bug using the form at the bottom of this page.
 
+## 12 November
+### Improvements
+- Fixed Customer and Job search performance issues and timeouts
+- News is pulled from content management micro service
+
 ## 11 November
 ### New Features
 - New payments are now taken with our new provider Stripe
