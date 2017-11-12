@@ -13,6 +13,7 @@ You can send us a feature request or report a bug using the form at the bottom o
 - New payments are now taken with our new provider Stripe
 - Payment details can be added and updated from the account section
 - Invoices are displayed on the view customer section
+
 ### Improvements
 - Install new SSL key to keep the website secure
 - Invoice is sent when payment for a subscription when Stripe is used for payment
