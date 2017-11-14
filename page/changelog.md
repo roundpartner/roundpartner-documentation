@@ -3,6 +3,11 @@ RoundPartner is constantly being updated to ensure it has all the features requi
 
 You can send us a feature request or report a bug using the form at the bottom of this page.
 
+## 14th November 2017
+### Improvements
+- Migrated to new Database Server for better performance and reliability
+- Migrated to new Redis server for better performance
+
 ## 12th November 2017
 ### Improvements
 - Can search for customers by phone number
