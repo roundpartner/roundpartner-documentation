@@ -1,4 +1,4 @@
-# adding a new customer
+# Adding a new customer
 <!-- todo: rewrite content on this page -->
 You can add information about the customer like their name and contact details
 
