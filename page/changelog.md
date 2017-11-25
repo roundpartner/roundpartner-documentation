@@ -3,6 +3,13 @@ RoundPartner is constantly being updated to ensure it has all the features requi
 
 You can send us a feature request or report a bug using the form at the bottom of this page.
 
+## 25th November 2017
+### Improvements
+- Fixed payment search
+- Fix search job by type
+- Go back to result page after updating a job or payment
+- Fix performance issues when search for customers in payments section
+
 ## 14th November 2017
 ### Improvements
 - Migrated to new Database Server for better performance and reliability
