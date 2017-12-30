@@ -4,6 +4,9 @@ RoundPartner is constantly being updated to ensure it has all the features requi
 You can send us a feature request or report a bug using the form at the bottom of this page.
 
 ## 2nd January 2018
+### New Features
+- You can now access the site with roundpartner.uk
+
 ### Improvements
 - Display message when card is invalid
 - Fixed error handling of recurring Stripe payments prevent accounts subscriptions being extended
