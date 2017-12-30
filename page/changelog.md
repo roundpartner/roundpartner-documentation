@@ -5,7 +5,7 @@ You can send us a feature request or report a bug using the form at the bottom o
 
 ## 2nd January 2018
 ### New Features
-- You can now access the site with roundpartner.uk
+- You can now access the site from roundpartner.uk
 
 ### Improvements
 - Display message when card is invalid
