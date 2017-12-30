@@ -1,0 +1,3 @@
+# Importing Customers From George
+
+<p>Customers can be imported into RoundPartner automatically from George. If you are migrating from another service, send us an email and we can look into importing the customers for you.</p><p></p><p><img src="/uploads/redactor/pages/0f925322c7e31e766aaf25934d1da62e.png" alt="0f925322c7e31e766aaf25934d1da62e.png" /></p>When you have entered the job type and selected the CSV file exported from George you can press <b>upload</b>. If the upload was successful you will see the following:<p></p><p><img src="/uploads/redactor/pages/3adae077c344b40752d091a038734b79.png" alt="3adae077c344b40752d091a038734b79.png" /></p>If you get an error, send us an email and we will help you with importing your customers.
