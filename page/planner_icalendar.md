@@ -1,0 +1,3 @@
+# Live Calendar Feed
+
+<p>From the <a href="/planner">planner</a> you can select <b>Subscribe </b>to enable the live calendar feed to your preferred calendar app.</p><p>The calendar feed allows you to add your jobs to your preferred calendar app. Once you have added the feed it will updated every hour which jobs that have not been completed. This is useful if you want to view your jobs but don't have access to a constant Internet connection.</p><h2><a href="/page/planner_icalendar_google">Google Calendar for Android</a></h2><p></p><h2><a href="/page/planner_icalendar_ical">iCal for iPhone</a></h2>
