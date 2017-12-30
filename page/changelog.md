@@ -1,5 +1,5 @@
 # Change Log
-RoundPartner is constantly being updated to ensure it has all the features required to keep a window cleaning business running smoothly. This page highlights some of the features and improvements we have made.
+RoundPartner is constantly being updated to ensure it has all the features required to keep a cleaning business running smoothly. This page highlights some of the features and improvements we have made.
 
 You can send us a feature request or report a bug using the form at the bottom of this page.
 
@@ -8,6 +8,8 @@ You can send us a feature request or report a bug using the form at the bottom o
 - You can now access the site from roundpartner.uk
 
 ### Improvements
+- Fixed some widget headings being displayed as a link
+- Fixed messages api showing an error when there are no messages to display
 - Display message when card is invalid
 - Fixed error handling of recurring Stripe payments prevent accounts subscriptions being extended
 - Fixed help contents page showing not found error
