@@ -11,6 +11,7 @@ You can send us a feature request or report a bug using the form at the bottom o
 - Fixed some widget headings being displayed as a link
 - Fixed messages api showing an error when there are no messages to display
 - Display message when card is invalid
+- Display message when card has been updated
 - Fixed error handling of recurring Stripe payments prevent accounts subscriptions being extended
 - Fixed help contents page showing not found error
 - Emails are sent through Micro Service to improve site performance
