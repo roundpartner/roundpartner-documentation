@@ -3,6 +3,10 @@ RoundPartner is constantly being updated to ensure it has all the features requi
 
 You can send us a feature request or report a bug using the form at the bottom of this page.
 
+## 3rd January 2018
+### Improvements
+- Fixed blank page displayed when completing jobs on mobile
+
 ## 2nd January 2018
 ### New Features
 - You can now access the site from roundpartner.uk
