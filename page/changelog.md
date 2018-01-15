@@ -6,8 +6,7 @@ You can send us a feature request or report a bug using the form at the bottom o
 
 ## 18 January 2018
 ### Improvements
-
-### New Features
+- Added config to Dockerize CRM Framework
 
 ## 3rd January 2018
 ### Improvements
