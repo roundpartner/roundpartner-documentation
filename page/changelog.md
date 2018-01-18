@@ -3,6 +3,15 @@ RoundPartner is constantly being updated to ensure it has all the features requi
 
 You can send us a feature request or report a bug using the form at the bottom of this page.
 
+
+## 18 January 2018
+### New Features
+ - You can now change your email if you are unable to verify it
+ - A round can be assigned a scheduled date
+### Improvements
+- Updating your email will be applied to Stripes invoice address when subscription is recurred
+- Added config to Dockerize CRM Framework
+
 ## 3rd January 2018
 ### Improvements
 - Fixed blank page displayed when completing jobs on mobile
@@ -120,7 +129,7 @@ You can send us a feature request or report a bug using the form at the bottom o
 
 ### New Features:
 
-*   <span style="line-height:21.75px;">Jobs can be ordered by postcode by selecting it from the options in Account -> Customise -> Default job listing order</span>
+*   Jobs can be ordered by postcode by selecting it from the options in Account -> Customise -> Default job listing order
 
 ### Improvements:
 
@@ -259,7 +268,7 @@ Our servers were checked for the [Heart Bleed Security Vulnerability](http://he
 
 ### New Features
 
-*   <span style="line-height:21.75px;">Created new user type to allow accounts to have multiple users (alpha)</span>
+*   Created new user type to allow accounts to have multiple users (alpha)
 
 ### Improvements
 
@@ -276,7 +285,7 @@ Our servers were checked for the [Heart Bleed Security Vulnerability](http://he
 
 ### New Features
 
-*   <span style="line-height:21.75px;">Added amount field to booking page on mobile to allow setting the amount paid by a customer</span>
+*   Added amount field to booking page on mobile to allow setting the amount paid by a customer
 
 ### Improvements
 
@@ -430,7 +439,7 @@ Our servers were checked for the [Heart Bleed Security Vulnerability](http://he
 
 ### Improvements
 
-*   <span style="line-height:21.75px;">Payments not currently attached to an invoice can now be deleted</span>
+*   Payments not currently attached to an invoice can now be deleted
 
 ## 2nd July 2013
 
@@ -478,7 +487,7 @@ Our servers were checked for the [Heart Bleed Security Vulnerability](http://he
 
 ### New Features
 
-*   <span style="line-height:21.75px;">Quick add multiple customers located on the same street using the <b>Add Street</b> button on the customer listing section</span>
+*   Quick add multiple customers located on the same street using the <b>Add Street</b> button on the customer listing section
 
 ### Improvements  
 
@@ -497,13 +506,13 @@ Our servers were checked for the [Heart Bleed Security Vulnerability](http://he
 
 ### Improvements
 
-*   <span style="line-height:21.75px;">Changes to how jobs are displayed throughout the system</span>
+*   Changes to how jobs are displayed throughout the system
 
 ## 16th April 2013
 
 ### New Features
 
-*   <span style="line-height:21.75px;">Added button to view jobs due today which can be printed</span>
+*   Added button to view jobs due today which can be printed
 
 ### Improvements
 
@@ -551,15 +560,14 @@ Our servers were checked for the [Heart Bleed Security Vulnerability](http://he
 
 ### Improvements
 
-*   <span style="line-height:21.75px;">Updated site style/look. New style now allows for more improved functionality to be built</span>
-*   <span style="line-height:21.75px;">New "responsive" navigation menu and listings allowing for the site to work on smaller tablet devices</span>
-*   <span style="line-height:21.75px;">Cleaned up dashboard widgets</span>
-*   <span style="line-height:21.75px;">Increased number of days that can be synced to Google Calendar</span>
-*   <span style="line-height:21.75px;">Tidied up multiple sections accross the site</span>
-*   <span style="line-height:21.75px;">Fixed in certain places where customer and address were not linked to customer details page on listings  
-    </span>
-*   <span style="line-height:21.75px;">Fixed calendar not always displaying month correctly</span>
-*   <span style="line-height:21.75px;">Lots of minor bug fixes and interface cleanup</span>
+*   Updated site style/look. New style now allows for more improved functionality to be built
+*   New "responsive" navigation menu and listings allowing for the site to work on smaller tablet devices
+*   Cleaned up dashboard widgets
+*   Increased number of days that can be synced to Google Calendar
+*   Tidied up multiple sections accross the site
+*   Fixed in certain places where customer and address were not linked to customer details page on listings
+*   Fixed calendar not always displaying month correctly
+*   Lots of minor bug fixes and interface cleanup
 
 ## 10th February 2013
 
@@ -590,8 +598,7 @@ Our servers were checked for the [Heart Bleed Security Vulnerability](http://he
 
 ### Improvements
 
-*   <span style="font-size:15px;line-height:1.45em;">Removed underlines from customer, jobs and payment page tables</span>  
-
+*   Removed underlines from customer, jobs and payment page tables
 *   Changes to script minification to reduce page loading speeds
 *   Fixed February not appearing on planner on certain days of the month
 
