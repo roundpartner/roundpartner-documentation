@@ -12,6 +12,7 @@ You can send us a feature request or report a bug using the form at the bottom o
 - Rounds are ordered by scheduled date
 - Automated smoke tests are run against CRM before deployment to production
 - Dockerized CRM can clone client databases from back up
+- News sections are pulled from documentation service
 
 ## 18th January 2018
 ### New Features
