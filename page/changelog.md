@@ -3,6 +3,15 @@ RoundPartner is constantly being updated to ensure it has all the features requi
 
 You can send us a feature request or report a bug using the form at the bottom of this page.
 
+## 28 January 2018
+### Improvements
+- Fixed payment methods not being set
+- Add a scheduled round type
+- Round type can be set by updating a round
+- Overdue rounds are highlighted
+- Rounds are ordered by scheduled date
+- Automated smoke tests are run against CRM before deployment to production
+- Dockerized CRM can clone client databases from back up
 
 ## 18 January 2018
 ### New Features
