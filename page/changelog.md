@@ -3,6 +3,11 @@ RoundPartner is constantly being updated to ensure it has all the features requi
 
 You can send us a feature request or report a bug using the form at the bottom of this page.
 
+## 31st January 2018
+### Improvements
+- Payment details can be added when a job has been paid on the mobile
+- Reverted round ordering on round listing page
+
 ## 28th January 2018
 ### Improvements
 - Fixed payment methods not being set
