@@ -8,6 +8,7 @@
 - [Payment](/page/payment_create.md)
 - [Creating an invoice](/page/invoice_create.md)
 - [Your Jobs](/page/job_index.md)
+ - [Schedule Booking](/page/booking_schedule.md)
 - [Your Planner](/page/planner_index.md)
 - [Payments](/page/payment_index.md)
 - [Rounds](/page/round_index.md)
