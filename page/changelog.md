@@ -3,6 +3,12 @@ RoundPartner is constantly being updated to ensure it has all the features requi
 
 You can send us a feature request or report a bug using the form at the bottom of this page.
 
+## 8th March 2018
+### Improvements
+- Fixed reports not including total of whole day
+- Fixed customer name not showing in send mandate section
+- Show preview of mandate email before sending
+
 ## 26th February 2018
 ### Improvements
 - Enforced Content Security Policy (CSP)
