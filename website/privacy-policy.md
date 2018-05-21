@@ -14,6 +14,7 @@ We may collect the following information:
 - contact information including email address
 - demographic information such as postcode, preferences and interests
 - other information relevant to customer surveys and/or offers
+
 ## What we do with the information we gather
 We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 ## Internal record keeping
