@@ -6,7 +6,7 @@ Should we ask you to provide certain information by which you can be identified 
 
 RoundPartner Ltd may change this policy from time to time by updating this page.
 You should check this page from time to time to ensure that you are happy with any changes.
-This policy is effective from 28/08/2012.
+This policy is effective from 21/05/2018.
 
 ## What we collect
 We may collect the following information:
@@ -17,15 +17,15 @@ We may collect the following information:
 
 ## What we do with the information we gather
 We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
-## Internal record keeping
+### Internal record keeping
 We may use the information to improve our products and services.
 
-We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+With consent, we may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+We may need to contact you when legally required to do so or notify you if there is anything that may effect our service to you.
 
-From time to time, we may also use your information to contact you for market research purposes.
 We may contact you by email, phone, fax or mail.
 We may use the information to customise the website according to your interests.
-## Security
+### Security
 We are committed to ensuring that your information is secure.
 In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 ## How we use cookies
@@ -50,15 +50,14 @@ You should exercise caution and look at the privacy statement applicable to the 
 ## Controlling your personal information
 You may choose to restrict the collection or use of your personal information in the following ways:
 
-whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-
-if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing our Data Controller below.
+If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing our Data Controller below.
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so.
 We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998.
-A small fee of ten pounds (£10) will be payable.
+You may request details of personal information which we hold about you under the GDPR legislation.
 If you would like a copy of the information held on you please write to 108 Elthorne Park Road, London, W7 2JJ.
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+
+To learn more about how we use your data please read our page on GDPR [here](https://www.roundpartner.co.uk/gdpr).
