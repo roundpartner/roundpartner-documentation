@@ -3,6 +3,12 @@ RoundPartner is constantly being updated to ensure it has all the features requi
 
 You can send us a feature request or report a bug using the form at the bottom of this page.
 
+## 21st May 2018
+- GDPR changes [read more](https://www.roundpartner.co.uk/gdpr)
+- Ordering by address will order the street before the house number
+- Fixed error when importing customer data
+- Users email address can be updated from user section
+
 ## 8th March 2018
 ### Improvements
 - Fixed reports not including total of whole day
