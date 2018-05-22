@@ -2,7 +2,8 @@
 If you continue to browse and use this website, you are agreeing to comply with and be bound by the following terms and conditions of use, which together with our privacy policy govern RoundPartner Ltd relationship with you in relation to this website.
 If you disagree with any part of these terms and conditions, please do not use our website.
 
-The term ‘RoundPartner’ or ‘us’ or ‘we’ refers to the owner of the website whose registered office is 108 Elthorne Park Road, London, UK. Our company registration number is 08186288. The term ‘you’ refers to the user or viewer of our website.
+The term ‘RoundPartner’ or ‘us’ or ‘we’ refers to the owner of the website whose registered office is 108 Elthorne Park Road, London, UK. Our company registration number is 08186288.
+The term ‘you’ refers to the user or viewer of our website.
 
 The use of this website is subject to the following terms of use:
 
@@ -32,20 +33,25 @@ All trademarks reproduced in this website, which are not the property of, or lic
 
 Unauthorised use of this website may give rise to a claim for damages and/or be a criminal offence.
 
-From time to time, this website may also include links to other websites. These links are provided for your convenience to provide further information. They do not signify that we endorse the website(s). We have no responsibility for the content of the linked website(s).
+From time to time, this website may also include links to other websites.
+These links are provided for your convenience to provide further information.
+They do not signify that we endorse the website(s).
+We have no responsibility for the content of the linked website(s).
 
 Your use of this website and any dispute arising out of such use of the website is subject to the laws of England, Northern Ireland, Scotland and Wales.
 ## Payments
-At the end of your free trial you will be required to purchase a package to continue using many of Round Partner's features. If you decide not to purchase a package your account will be downgraded to a free read-only account.
+At the end of your free trial you will be required to purchase a package to continue using many of RoundPartner's features.
+If you decide not to purchase a package your account will be downgraded to a free read-only account.
 A read-only account will only allow you access to your customers and your jobs but you will be unable to make any changes or updates until you purchase a package.
 
-Purchasing a package is simple with our secure payment portal. Once your payment has been made you will automatically have your account upgraded and will be able to enjoy all the features such as updating you customers, payments and invoices.
+Purchasing a package is simple with our secure payment portal.
+Once your payment has been made you will automatically have your account upgraded and will be able to enjoy all the features such as updating you customers, payments and invoices.
 <!-- /Payments -->
 ## Refund Policy
 If you are, for any reason, not entirely happy with our service please contact our customer services and explain the problem so we can provide a solution.
 A refund is only available under the following circumstances:
 
-- Round Partner service becomes unavailable (scheduled maintenance is exempt)
+- RoundPartner service becomes unavailable (scheduled maintenance is exempt)
 - Technical department feels you're entitled to a refund
 - You are really unhappy with the service
 
@@ -63,8 +69,8 @@ We accept that sometimes that our service;
 - No longer suitable for your needs
 - You no longer require our service
 
-You can stop using Round Partner at any time.
-If you do decide to stop using Round Partner, let us know as we would like to know so we could improve our service.
+You can stop using RoundPartner at any time.
+If you do decide to stop using RoundPartner, let us know as we would like to know so we could improve our service.
 
 Once your packages have expired we will not take any further payments.
 Your account will be downgraded to the free read-only package allowing you to still have access to your customers and jobs but you will be unable to make changes to them.
@@ -72,10 +78,10 @@ Your account will be downgraded to the free read-only package allowing you to st
 Your data will be stored on our service for the minimum time legally required. If you wish your account to be disabled and or deleted from our servers <a href="/contact-us">contact us</a>.
 We will not charge for the storage of your data in read-only mode and we will not share your data with any third parties.
 
-We can restrict or terminate your use of the service if you try to damage, steal or any other criminal activity that involves the use of Round Partner.
+We can restrict or terminate your use of the service if you try to damage, steal or any other criminal activity that involves the use of RoundPartner.
 <!-- /Cancellation Policy -->
 ## Returns Policy
-If you are unhappy with a package/service purchased through Round Partner please refer to our <a href="#refunds" title="Refund Policy">refunds policy</a> and <a href="/contact-us">contact us</a>
+If you are unhappy with a package/service purchased through RoundPartner please refer to our <a href="#refunds" title="Refund Policy">refunds policy</a> and <a href="/contact-us">contact us</a>
 <!-- /Returns Policy -->
 ## Delivery Policy
 Upon successful verification of your payment the packages and services you selected will immediately become available for use.

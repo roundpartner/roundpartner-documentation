@@ -17,6 +17,9 @@ You can not use RoundPartner as a tool for direct marketing.
 RoundPartner provides the facility to delete customers or update their details when necessary.
 You can contact our data controller if you require all customer data to be removed from your account when it becomes no longer required.
 
+By using RoundPartner, some personal data that can be used to identify you including your IP address and your web browser agent identifier will be stored.
+This information is only used to identify and resolve issues with providing services to you and will not be shared with any third parties without consent.
+We also hold this information to protect our services from abuse.
 ### Sensitive Personal Data
 RoundPartner can not be used to store sensitive personal data of any customer.
 
