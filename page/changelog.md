@@ -3,6 +3,25 @@ RoundPartner is constantly being updated to ensure it has all the features requi
 
 You can send us a feature request or report a bug using the form at the bottom of this page.
 
+## 27th December 2018
+RoundPartner has now been migrated to AWS from RackSpace.
+All servers and user data are stored on London based servers.
+
+## 24th December 2018
+- FIXED week numbers of dashboard
+- Changes to account creation to reduce time of initial set up
+- Make invoice easier to manage
+- Stripe retries after a payment failure are reduced
+- Micro Services are now load balanced
+- Improved error handling and notifications when systems are unavailable
+- Migrated invoices from Rackspace to AWS
+- Back ups migrated from Rackspace to AWS
+- Display card payment errors to user
+- Integrated background jobs to use AWS Queues
+- Multiple performance improvements
+- View customer report over 2 years
+- Improved how help pages are loaded
+
 ## 21st May 2018
 - GDPR changes [read more](https://www.roundpartner.co.uk/gdpr)
 - Ordering by address will order the street before the house number
