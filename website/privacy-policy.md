@@ -56,7 +56,7 @@ We will not sell, distribute or lease your personal information to third parties
 We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
 You may request details of personal information which we hold about you under the GDPR legislation.
-If you would like a copy of the information held on you please write to 108 Elthorne Park Road, London, W7 2JJ.
+If you would like a copy of the information held on you please write to Roundpartner Ltd, 71-75 Shelton Street, Covent Garden, London, WC2H 9JQ.
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
