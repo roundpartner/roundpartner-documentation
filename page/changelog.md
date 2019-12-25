@@ -3,6 +3,17 @@ RoundPartner is constantly being updated to ensure it has all the features requi
 
 You can send us a feature request or report a bug using the form at the bottom of this page.
 
+## 26th December 2019
+This release migrates the Stripe integration to use Stripe Subscriptions which support Strong Customer Authentication.
+If you are on a legacy subscription, you will need to resubscribe on the packages section.
+
+- Update stripe integration for Strong Customer Authentication support
+- Allow updating expenses
+- Add link to mobile site to show desktop site
+- Migrated test suite to cypress
+- FIXED Go Cardless payments showing as paid twice
+- Invoices migrated to S3
+
 ## 27th December 2018
 RoundPartner has now been migrated to AWS from RackSpace.
 All servers and user data are stored on London based servers.
@@ -302,7 +313,7 @@ Our servers were checked for the [Heart Bleed Security Vulnerability](http://he
 ### Improvements
 
 *   <span style="line-height:21.75px;">Added button on new customer form to create a new address</span>
-*   <span style="line-height:21.75px;">Added a link to next booking on rounds customer listing  
+*   <span style="line-height:21.75px;">Added a link to next booking on rounds customer listing
     </span>
 *   <span style="line-height:21.75px;">Added notes field to create payment form on desktop site</span>
 *   <span style="line-height:21.75px;">Ability to delete addresses and jobs from the edit sections</span>
@@ -539,7 +550,7 @@ Our servers were checked for the [Heart Bleed Security Vulnerability](http://he
 
 *   Quick add multiple customers located on the same street using the <b>Add Street</b> button on the customer listing section
 
-### Improvements  
+### Improvements
 
 *   <span style="line-height:21.75px;">Job prices can be updated from the booking edit form to apply price too all future jobs</span>
 *   <span style="line-height:21.75px;">Display round type on round listings (rounds generated automatically are given a type and will be possible to filter out in future)</span>
