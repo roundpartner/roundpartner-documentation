@@ -3,6 +3,14 @@ RoundPartner is constantly being updated to ensure it has all the features requi
 
 You can send us a feature request or report a bug using the form at the bottom of this page.
 
+## 12 March 2020
+This release discontinues integration with our old payment provider.
+
+- Fix synchronisation failing on webapp when session times out
+- Fix searching bookings by round
+- Add prompt to migrate to new subscription model
+- Fix remaining days of subscription not showing correctly
+
 ## 26th December 2019
 This release migrates the Stripe integration to use Stripe Subscriptions which support Strong Customer Authentication.
 If you are on a legacy subscription, you will need to resubscribe on the packages section.
