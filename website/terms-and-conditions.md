@@ -72,16 +72,18 @@ We accept that sometimes that our service;
 You can stop using RoundPartner at any time.
 If you do decide to stop using RoundPartner, let us know as we would like to know so we could improve our service.
 
-Once your packages have expired we will not take any further payments.
-Your account will be downgraded to the free read-only package allowing you to still have access to your customers and jobs but you will be unable to make changes to them.
+To cancel your package you need to go to the [view packages](https://roundpartner.co.uk/account/package) section of the website.
+You will see the package you are subscribes to and presented a cancel button.
+This will cancel your subscription.
 
-Your data will be stored on our service for the minimum time legally required. If you wish your account to be disabled and or deleted from our servers <a href="/contact-us">contact us</a>.
+Your data will be stored on our service for the minimum time legally required.
+If you wish your account to be disabled and or deleted from our servers <a href="/contact-us">contact us</a>.
 We will not charge for the storage of your data in read-only mode and we will not share your data with any third parties.
 
 We can restrict or terminate your use of the service if you try to damage, steal or any other criminal activity that involves the use of RoundPartner.
 <!-- /Cancellation Policy -->
 ## Returns Policy
-If you are unhappy with a package/service purchased through RoundPartner please refer to our <a href="#refunds" title="Refund Policy">refunds policy</a> and <a href="/contact-us">contact us</a>
+If you are unhappy with a package/service purchased through RoundPartner please refer to our <a href="#refund-policy" title="Refund Policy">refunds policy</a> and <a href="/contact-us">contact us</a>
 <!-- /Returns Policy -->
 ## Delivery Policy
 Upon successful verification of your payment the packages and services you selected will immediately become available for use.
