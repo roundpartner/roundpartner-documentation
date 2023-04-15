@@ -3,6 +3,14 @@ RoundPartner is constantly being updated to ensure it has all the features requi
 
 You can send us a feature request or report a bug using the form at the bottom of this page.
 
+## 15 April 2023
+- FIX Booking price field resulting in error when empty
+- Multiple performance fixes to backend databases
+- Infrastructure changes (task queueing and serverless)
+
+## 8 September
+- Upgrade GoCardless integration
+
 ## 16 March 2022
 - Updated cancellation policy
 
